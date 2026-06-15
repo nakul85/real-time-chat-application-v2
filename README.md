@@ -4,13 +4,13 @@ A real-time chat application built using Java, Spring Boot, WebSocket, JWT Authe
 
 ## Features
 
-* User Registration and Login
-* JWT-based Authentication
-* Real-Time Messaging using WebSocket
-* One-to-One Chat Functionality
-* Message Persistence with MySQL
-* Spring Security Integration
-* REST APIs for Authentication
+- User Registration and Login
+- JWT-based Authentication
+- Real-Time Messaging using WebSocket
+- One-to-One Chat Functionality
+- Message Persistence with MySQL
+- Spring Security Integration
+- REST APIs for Authentication
 
 ## Technologies Used
 
